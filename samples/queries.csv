@@ -1,0 +1,7 @@
+client,query,rcode
+192.0.2.10,a.example,NXDOMAIN
+192.0.2.10,b.example,NXDOMAIN
+192.0.2.10,c.example,NXDOMAIN
+192.0.2.10,d.example,NXDOMAIN
+192.0.2.10,portal.example,NOERROR
+192.0.2.20,normal.example,NOERROR

@@ -1,0 +1,20 @@
+[
+  {
+    "client": "192.0.2.10",
+    "queries": 5,
+    "unique_queries": 5,
+    "nxdomain_ratio": 0.8,
+    "long_label_count": 0,
+    "reasons": [
+      "high_nxdomain_ratio"
+    ]
+  },
+  {
+    "client": "192.0.2.20",
+    "queries": 1,
+    "unique_queries": 1,
+    "nxdomain_ratio": 0.0,
+    "long_label_count": 0,
+    "reasons": []
+  }
+]
